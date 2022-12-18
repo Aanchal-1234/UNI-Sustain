@@ -1,0 +1,29 @@
+body
+{
+ margin:0 auto;
+ padding:0px;
+ text-align:center;
+ width:100%;
+ font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+ background-color:#AED6F1;
+}
+
+.contact{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.form{
+    margin: 10%;
+    border-color: #35393b;
+}
+
+textarea {
+    padding-top:10px;
+    padding-bottom:25px; 
+    width:100%; 
+    display:block;
+  }
+
+.submit{
+    align-content: center;
+}

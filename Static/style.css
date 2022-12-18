@@ -1,0 +1,131 @@
+
+.body{
+    overflow-x:  hidden;
+    overflow-y: hidden;
+}
+.navbar{
+    background-color:rgb(83, 137, 106) !important;
+
+}
+
+.nav-container{
+    padding: 0px 40px 0px 40px;
+}
+
+.navbar .navbar-brand{
+    color: rgb(246, 248, 249);
+    font-weight: bolder;
+    font-size: 1.30;
+}
+
+.navbar .nav-item a{
+    color: aliceblue !important;
+}
+
+.navbar .dropdown-menu{
+    background-color:rgb(83, 137, 106);
+    border: none;
+}
+
+.dropdown-item:hover{
+    background-color:rgb(63, 83, 108);
+    
+}
+
+.navbar-brand{
+    padding-left: 10px;
+}
+.navbar form button{
+    background-color: rgb(176, 250, 229);
+}
+
+.navbar form button:hover{
+    background-color: rgb(227, 247, 113);
+}
+
+.carousel-inner .carousel-item {
+    height: 550px !important;
+}
+  
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 200px ;
+}
+
+.container-all{
+    padding: 0px 40px 0px 40px;
+}
+
+.card{
+    display: inline !important;
+    padding : 15px !important;
+    min-height: 100 !important;
+    
+}
+
+.card img{
+    display: inline !important;
+    margin: 0px !important;
+    float: left !important;
+
+}
+
+.center{
+    border-style: solid;
+    padding: 10px;
+    background-color: black;
+    color: antiquewhite;
+    align-self: center;
+}
+
+.grid-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.top-left {
+    position: absolute;
+    top: 200px;
+    left: 325px;
+  }
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.content{
+    width: 600px;
+    position: absolute;
+    top: 37%;
+    left:7%;
+    right: 400px;
+}
+
+.d-flex p1{
+    text-align: center;
+}
+
+.para{
+    padding-right: 20px;
+}
+
+.goal-image img{
+    height: 200px ;
+    width: 200px ;
+}
+
+.goal-card{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 10px;
+}
+
+
+
+
